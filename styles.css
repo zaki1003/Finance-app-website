@@ -16,6 +16,7 @@ body, html {
 #img__home {
     max-height: 500px;
      min-width: 170px;
+     border-radius:1em;
 }
 
  #btn-nav {
@@ -37,24 +38,26 @@ body, html {
     margin-top: 10px;
     font-size: 30px;
 
-    border-radius: 50%;
-    background-color: orange;
+    /* border-radius:50%; */
+    /* background-color: orange; */
     padding: 15px;
 }
 #fa2 {
     font-size: 30px;
     margin-bottom: 10px;
-    margin-top: 10px;
-    border-radius: 50%;
-    background-color: blue;
+    /* margin-top: 5px; */
+  max-width: 3em;
+   box-shadow: gray;
+  
     padding: 15px;
+  
 }
 #fa3 {
     font-size: 30px;
     margin-bottom: 10px;
     margin-top: 10px;
-    border-radius: 50%;
-    background-color: purple;
+    /* border-radius: 50%; */
+    /* background-color: purple; */
     padding: 15px;
 }
 .pricing {
@@ -88,7 +91,11 @@ body, html {
 .customer__service {
     color: white;
     
+   
     background-image: linear-gradient(to right,  rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.356)) , url(bg_testimonials.jpg);
+;
+  
+  
     background-size: cover;
     background-attachment: fixed;
     padding-top: 50px;
