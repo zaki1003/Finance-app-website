@@ -15,7 +15,7 @@ https://user-images.githubusercontent.com/65148928/130158692-cac43c42-79aa-47e7-
 
 ![Screenshot from 2021-08-19 23-56-58](https://user-images.githubusercontent.com/65148928/130155810-bba301bf-4e8d-4e8a-9e29-3bf76a39f5c6.png)
 
-- Clients and features
+- Clients and Features
 
 ![Screenshot from 2021-08-19 23-57-23](https://user-images.githubusercontent.com/65148928/130155819-c8ce3ec8-0606-4bb6-80bd-8ca8c7cbc86e.png)
 
