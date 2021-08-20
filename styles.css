@@ -37,15 +37,13 @@ body, html {
     margin-bottom: 10px;
     margin-top: 10px;
     font-size: 30px;
-
-    /* border-radius:50%; */
-    /* background-color: orange; */
+    
     padding: 15px;
 }
 #fa2 {
     font-size: 30px;
     margin-bottom: 10px;
-    /* margin-top: 5px; */
+   
   max-width: 3em;
    box-shadow: gray;
   
@@ -56,8 +54,7 @@ body, html {
     font-size: 30px;
     margin-bottom: 10px;
     margin-top: 10px;
-    /* border-radius: 50%; */
-    /* background-color: purple; */
+   
     padding: 15px;
 }
 .pricing {
@@ -70,7 +67,7 @@ body, html {
     background-image: url(pattern_2.svg); padding-top: 150px; padding-bottom: 150px;
 }
 .features3 {
-    background-color: #383340; padding-top: 100px;
+    background-color: #ae8be2; padding-top: 100px;
     padding-bottom: 100px;
 }
 #pricing-table-1 {
@@ -92,7 +89,7 @@ body, html {
     color: white;
     
    
-    background-image: linear-gradient(to right,  rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.356)) , url(bg_testimonials.jpg);
+    background-image: linear-gradient(to right,  rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.356)) , url(customerservice.jpg);
 ;
   
   
